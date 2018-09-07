@@ -1,0 +1,1 @@
+# automated_warehouse_storage_machine
